@@ -1,42 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry exported="true" kind="lib" path="D:/poi/jar/commons-collections4-4.1.jar">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="D:/poi/jar/poi-3.17.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="D:/poi/jar/poi-excelant-3.17.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="D:/poi/jar/poi-ooxml-3.17.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="D:/poi/jar/poi-ooxml-schemas-3.17.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="D:/poi/jar/poi-scratchpad-3.17.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="D:/poi/jar/xmlbeans-2.6.0.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/mysql-connector-java-5.1.44-bin.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
